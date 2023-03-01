@@ -1,4 +1,7 @@
-# Goal
+<img width="1115" alt="截圖 2023-03-01 上午10 39 15" src="https://user-images.githubusercontent.com/102202557/222210897-ead95107-e80a-47a3-893f-61bf6bcacb6b.png">
+
+
+# Business Goal
 Our goal is to give them a better understaning of the people who fly Sun Country. We also want to make sure that online booking channels meet the expectations of twenty-first century travelers.
 By doing so, Sun country could drag more customer and drive enrollment in Ufly Rewards, therefore help Sun Country to refine and market that program.
 As a result, our analysis aimed to find meaningful customer segments to increase Ufly membership and Sun Country Airline (SCA) Website Booking. 
